@@ -262,7 +262,7 @@ a {
 
 .progetto-immagine {
   width: 100%;
-  height: 180px;
+  height: 500px;
   background: var(--colore-card);
   display: flex;
   align-items: center;
